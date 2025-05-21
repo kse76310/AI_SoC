@@ -6,7 +6,7 @@ def nothing(x):
     pass
 
 title = "Trackbar Blur Test"
-image_path = 'some_image.jpg'  # 실제 이미지 파일 경로로 변경해주세요.
+image_path = 'c1.jpg'  # 실제 이미지 파일 경로로 변경해주세요.
 
 # 이미지 불러오기
 img_original = cv2.imread(image_path)
