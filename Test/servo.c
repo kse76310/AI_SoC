@@ -28,6 +28,7 @@ int main(int n, char **s)   //servo [회전각도 0 ~ 180]
             digitalWrite(SERVO, LOW);
             delayMicroseconds(20000-r1);   // 19ms + 1ms = 20ms = 50Hz
             //digitalWrite(SERVO, HIGH);
+            //test
         }
     }
 }
