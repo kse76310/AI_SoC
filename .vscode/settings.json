@@ -1,3 +1,7 @@
 {
-    "cmake.sourceDirectory": "/home/pi/Work/opencv"
+    "cmake.sourceDirectory": "/home/pi/Work/opencv",
+    "files.associations": {
+        "in.h": "c",
+        "types.h": "c"
+    }
 }
